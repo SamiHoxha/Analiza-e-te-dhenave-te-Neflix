@@ -17,3 +17,10 @@ R ose Python, pandas/dplyr, matplotlib/ggplot2, seaborn
 2. Kryej analizën eksplorative dhe vizualizimet  
 3. Interpreto gjetjet për vendime strategjike  
 
+
+Figura nga projekti 
+1) ( fig1.png )
+2) ( fig2.png )
+3) ( fig3.png )
+4) ( fig4.png )
+5) ( fig5.png ) 
