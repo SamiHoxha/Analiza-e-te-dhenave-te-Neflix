@@ -16,3 +16,4 @@ R ose Python, pandas/dplyr, matplotlib/ggplot2, seaborn
 1. Ngarko dataset-in e Netflix  
 2. Kryej analizën eksplorative dhe vizualizimet  
 3. Interpreto gjetjet për vendime strategjike  
+
